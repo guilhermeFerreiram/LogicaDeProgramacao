@@ -23,9 +23,6 @@
 ``` bash
 # Clone todo o repositório
 $ git clone https://github.com/guilhermeFerreiram/LogicaDeProgramacao.git
-
-# Abra a pasta
-$ cd LogicaDeProgramacao
 ```
 
 <br>
